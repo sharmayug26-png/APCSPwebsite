@@ -1,16 +1,41 @@
-
-
-style.css:
----------
-body{
-    font-family:Arial, sans-serif;
-    text-align:center;
-}
-h1{
-    font-size: 32px; 
-}
-img{
-    width:300px;
-    height:auto;
-}
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to Yug's webpage</title>
+        <title>Bootstrap Example</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="https://codehs.com/uploads/6b42b361b3dc48f9c4cbd67877a3d723" type="image/x-icon">
+        
+    </head>
+    <body>
+        <nav class="pic mt-5 p-5 navbar">
+            <div class="container-fluid">
+                
+            <div class="navbar-header">
+            <a class="star navbar-brand" href="bio.html"><img src="https://codehs.com/uploads/6b42b361b3dc48f9c4cbd67877a3d723" width="50px" height="50px"></a>
+            </div>
+            <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home🏠 </a></li>
+            <i class="fa-sharp-duotone fa-thin fa-house-user"></i>
+            <li><a href="projects.html">Projects</a></li>
+            </ul>
+            
+        
+        </div>
+        </nav>
+          
+    <div class="parallax"></div>
+            <h1 class="text-center">"Lovely attributes that fit my choice/perception"</h1>
+        <div class="parallax2"></div>
+    <footer class="text-center"> @ 2026 Yug Sharma <a href="https://granadahigh.livermoreschools.org/"> Granada homepage</a> <br> <a href="mailto:sharmayug26gmail.com">Send Email</a></footer>
+    </body>
+    
+</html>
