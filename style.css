@@ -31,7 +31,7 @@
 
 .parallax2 {
   /* The image used */
-  background-image:url("https://currentaffairs.khanglobalstudies.com/wp-content/uploads/2025/10/G3OK0VsWsAAgQUP.jpg");
+  background-image:url("https://image.jimcdn.com/app/cms/image/transf/dimension=1040x10000:format=jpg/path/s2217cd0bb1220415/image/if4b8e9868a0463e3/version/1684033791/acropolis-in-athens.jpg");
  
   /* Set a specific height */
   min-height: 600px;
@@ -91,17 +91,7 @@ footer{
     }
     
 }
-.star{
-    background-attachment: scroll;
-}
 
-
-
-  
-.star {
-  display: inline-block;
-  transition: transform 2s ease;
-}
 
 /* 2. Trigger the infinite animation on hover */
 li>.dropdown-item:hover {
