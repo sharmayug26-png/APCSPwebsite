@@ -199,3 +199,8 @@ transform: scale(1.08);
  filter: brightness(.7);
  transform: scale(.98);
 }
+
+section[id="adventure.pyt"] iframe {
+    width: 100% !important;
+    height:650px !important; 
+    border: none;
